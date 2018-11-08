@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:stream-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/stream/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/stream/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/stream/2.0.0/36a86e5f0bc11994fe59a54719ae216c618a08a1/stream-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:47
+-keep class com.instapp.natex.WXApplication { <init>(...); }
+

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:weex-plugin-camera-1.0.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/weex-plugin-camera/1.0.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/weex-plugin-camera/1.0.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/weex-plugin-camera/1.0.2/d245a38d9910f07d9c0457afbf927aa44a461918/weex-plugin-camera-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

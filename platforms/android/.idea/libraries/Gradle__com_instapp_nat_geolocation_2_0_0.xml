@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:geolocation-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/geolocation/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/geolocation/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/geolocation/2.0.0/b32a4f78a69d97d3cfff2cd569e78c46dc0dfbd/geolocation-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

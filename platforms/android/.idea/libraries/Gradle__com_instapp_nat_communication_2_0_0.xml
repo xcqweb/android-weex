@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:communication-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/communication/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/communication/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/communication/2.0.0/62f2349a93d6d3da20b6a96542ace39413e2767a/communication-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

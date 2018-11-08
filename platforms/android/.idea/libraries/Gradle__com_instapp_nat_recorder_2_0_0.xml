@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:recorder-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/recorder/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/recorder/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/recorder/2.0.0/a44530f57c6c329544e07ca6e55fd95e48fe5fd/recorder-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

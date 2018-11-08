@@ -1,0 +1,7 @@
+#Wed Nov 07 15:00:58 CST 2018
+base.0=E\:\\weex\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\weex\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+base.1=E\:\\weex\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+file.0=E\:\\weex\\app\\platforms\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes2.dex

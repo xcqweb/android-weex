@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:weex-plugin-media-audio-1.0.0-alpha">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/weex-plugin-media-audio/1.0.0-alpha/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/weex-plugin-media-audio/1.0.0-alpha/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/weex-plugin-media-audio/1.0.0-alpha/8d69d8c879a907e2fa2c46603c3f35cae440422d/weex-plugin-media-audio-1.0.0-alpha-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.instapp.nat:sensor-accelerometer-2.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/sensor-accelerometer/2.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.instapp.nat/sensor-accelerometer/2.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.instapp.nat/sensor-accelerometer/2.0.0/735c1a21e8c8e0a6dc5b62e0e33a685ae570bfec/sensor-accelerometer-2.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
